@@ -12,7 +12,7 @@ title                    : "Aya Abdelsalam Ismail"
 title_separator          : "-"
 name                     : &name "Aya Abdelsalam Ismail"
 description              : &description "Aya's personal website"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://ayaabdelsalam91.github.io/ayaismail/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ayaismail.com"
 
